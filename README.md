@@ -1,6 +1,6 @@
-# Bloco 2 - Generation
+# Bloco 2 - Desenvolvedor Web Full-Stack Java JR. - Generation Brasil 
 
-Repositório reorganizado com os exercícios antigos do Bloco 2 da Generation.
+Repositório reorganizado com os exercícios antigos do Bloco 2 da Generation Brasil.
 O objetivo desta estrutura é deixar claro o que foi desenvolvido, onde está cada entrega e como retomar os projetos.
 
 ## Estrutura
