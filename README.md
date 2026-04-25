@@ -31,6 +31,6 @@ Bloco2-GEN-main/
 
 ## Observações
 
-- As pastas `bin/` dentro dos projetos parecem ser cópias geradas pela IDE na época. O código principal está em `src/`.
+- As pastas `bin/` dentro dos projetos são cópias geradas pela IDE na época. O código principal está em `src/`.
 - Os projetos usam versões antigas do Spring Boot da época dos exercícios (`2.6.x`).
 - Algumas configurações usam banco local com usuário e senha `root/root`; ajuste conforme o seu MySQL atual antes de executar.
